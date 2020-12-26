@@ -1,4 +1,4 @@
-# Open core EFI for LG Gram 14z980
+# Open core EFI for [LG Gram 14z980](https://www.amazon.in/LG-Ultra-Light-Processor-Generation-Professional/dp/B07WPVHCXM/ref=sr_1_2?dchild=1&keywords=lg+gram+14&qid=1608990365&refinements=p_n_pattern_browse-bin%3A1464445031%2Cp_89%3ALG%2Cp_n_feature_thirteen_browse-bin%3A12598162031&rnid=12598141031&s=computers&sr=1-2)
 
 ## Before you install 
   * Change the Serial number
@@ -24,6 +24,7 @@ The following is provided by linGinc, thanks!
   * iService may work 
   * Airdrop also won't work
   * haven't tested sd card and hdmi port
+  * Also no fan speed 
 
 ## Credits
   * Thanks [suzuke](https://github.com/suzuke/LG-Gram-13z980-Opencore) for battery ssdt
