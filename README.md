@@ -24,6 +24,7 @@ The following is provided by linGinc, thanks!
   * iService may work 
   * Airdrop also won't work
   * haven't tested sd card and hdmi port
+  * Also no fan speed 
 
 ## Credits
   * Thanks [suzuke](https://github.com/suzuke/LG-Gram-13z980-Opencore) for battery ssdt
