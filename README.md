@@ -29,4 +29,6 @@ The following is provided by linGinc, thanks!
   * Thanks [suzuke](https://github.com/suzuke/LG-Gram-13z980-Opencore) for battery ssdt
   * Thanks [Open Wireless community](https://github.com/OpenIntelWireless) for bluetooth and wifi 
   * Thanks [Opencore community](https://github.com/acidanthera/OpenCorePkg) 
-  
+
+## Photos
+![About this mac](Photos/about this mac.png)
