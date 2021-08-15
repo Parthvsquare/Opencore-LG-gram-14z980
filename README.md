@@ -18,10 +18,12 @@ The following is provided by linGinc, thanks!
   * Side car (using wire)
   * Sleep works
   * If you want working function keys for brightness to work follow the tutorial posted by [suzuke](https://github.com/suzuke/LG-Gram-13z980-Opencore)
+  * iService works, (Please follow the official guide to valid serial number)
+  * FileVault Works
+
 
 ## This will not work
   * The airplay and wireless sidecar
-  * iService may work 
   * Airdrop also won't work
   * haven't tested sd card and hdmi port
   * Also no fan speed 
