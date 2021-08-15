@@ -20,12 +20,12 @@ The following is provided by linGinc, thanks!
   * If you want working function keys for brightness to work follow the tutorial posted by [suzuke](https://github.com/suzuke/LG-Gram-13z980-Opencore)
   * iService works, (Please follow the official guide to valid serial number)
   * FileVault Works
-
+  * HDMI works (tested on 1440p monitor)
 
 ## This will not work
   * The airplay and wireless sidecar
   * Airdrop also won't work
-  * haven't tested sd card and hdmi port
+  * haven't tested sd card 
   * Also no fan speed 
 
 ## Credits
