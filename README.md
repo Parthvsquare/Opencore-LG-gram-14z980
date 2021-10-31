@@ -1,5 +1,12 @@
 # Open core EFI for [LG Gram 14z980](https://www.amazon.in/LG-Ultra-Light-Processor-Generation-Professional/dp/B07WPVHCXM/ref=sr_1_2?dchild=1&keywords=lg+gram+14&qid=1608990365&refinements=p_n_pattern_browse-bin%3A1464445031%2Cp_89%3ALG%2Cp_n_feature_thirteen_browse-bin%3A12598162031&rnid=12598141031&s=computers&sr=1-2)
 
+# IMORTANT Notice: 
+    * Though 0.7.4 is Monterey ready DO NOT INSTALL it.
+    * Problems i faced: 
+      * Bluetooth not working
+      * Camera not working 
+      * Internal mic issue
+ 
 ## Before you install 
   * Change the Serial number
   * Modify the BIOS settings (press F2 to enter the BIOS when booting, Ctrl + Alt + F7 to open the hidden BIOS options, thanks to [as695336480](https://github.com/capricornlee/LG-Gram13-Z990/issues/7#issue-624133249) for providing: source)
