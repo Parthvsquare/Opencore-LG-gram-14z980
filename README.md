@@ -5,7 +5,6 @@
  * Problems i faced: 
    * Bluetooth not working
    * Camera not working 
-   * Internal mic issue
  
 ## Before you install 
   * Change the Serial number
