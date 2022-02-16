@@ -1,6 +1,12 @@
-# Open core EFI for [LG Gram 14z980](https://www.amazon.in/LG-Ultra-Light-Processor-Generation-Professional/dp/B07WPVHCXM/ref=sr_1_2?dchild=1&keywords=lg+gram+14&qid=1608990365&refinements=p_n_pattern_browse-bin%3A1464445031%2Cp_89%3ALG%2Cp_n_feature_thirteen_browse-bin%3A12598162031&rnid=12598141031&s=computers&sr=1-2)
 
-# IMORTANT Notice: 
+```diff
+- This repo is no longer maintained by me, i sold my gram and bought a mini 
+``` 
+ thank you everyone
+-----
+## Open core EFI for [LG Gram 14z980](https://www.amazon.in/LG-Ultra-Light-Processor-Generation-Professional/dp/B07WPVHCXM/ref=sr_1_2?dchild=1&keywords=lg+gram+14&qid=1608990365&refinements=p_n_pattern_browse-bin%3A1464445031%2Cp_89%3ALG%2Cp_n_feature_thirteen_browse-bin%3A12598162031&rnid=12598141031&s=computers&sr=1-2)
+
+## IMORTANT Notice: 
  * Though 0.7.4 is Monterey ready DO NOT INSTALL it.
  * Problems i faced: 
    * Bluetooth not working
